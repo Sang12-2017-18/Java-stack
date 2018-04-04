@@ -1,2 +1,3 @@
 # Java-stack
-Improving efficiency of array stack in java
+
+I have uploaded a file containing the program to implement array-stack. I have done it the C++ way; is there any other efficient way to write this code? 
